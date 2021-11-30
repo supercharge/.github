@@ -1,0 +1,12 @@
+{
+  "name": "Supercharge Node.js Testing on Ubuntu",
+  "description": "Supercharge Node.js workflow template.",
+  "iconName": "example-icon",
+  "categories": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
