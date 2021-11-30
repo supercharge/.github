@@ -1,6 +1,7 @@
 name: Run Node.js Tests on Ubuntu
 
 on:
+  workflow_call:
   pull_request:
   push:
   schedule:
